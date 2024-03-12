@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THIPPESH57
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning data analytics
+
+
 - 📫 How to reach me https://www.linkedin.com/in/thippeshsv/
 
 <!---
