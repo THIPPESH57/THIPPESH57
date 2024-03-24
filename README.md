@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @THIPPESH57
-
+- fullstack developer from India
 
 - 📫 How to reach me https://www.linkedin.com/in/thippeshsv/
 
